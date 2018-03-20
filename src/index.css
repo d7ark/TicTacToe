@@ -2,3 +2,9 @@ body {
   font: 14px "Century Gothic", Futura, sans-serif;
   margin: 20px;
 }
+
+#root {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
